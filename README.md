@@ -1,2 +1,2 @@
 # dbx
-Experimental blocks to build custom databases
+Experimental building blocks of databases
